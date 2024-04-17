@@ -8,7 +8,7 @@ I have removed several forked repos containing altered code that is no longer re
 
 
 ### 🤝 Connect with Me:
-<a href="https://www.linkedin.com/in/davidmalicote/"><img align="left" src="https://raw.githubusercontent.com/dlockmal/dlockmal/main/images/linkedin.svg" alt="David Malicote | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/davidmalicote/"><img align="left" src="https://raw.githubusercontent.com/dlockmal/dlockmal/images/linkedin.png" alt="David Malicote | LinkedIn" width="21px"/></a>
 
 
 <!--
