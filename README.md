@@ -6,10 +6,16 @@ I'm a leader of information security teams building my versions of the digital f
 up, from planning and designing all the way to solving real-life problems. I have several custom scripts and hacks that unfortunately I can't share publicly. 
 I have removed several forked repos containing altered code that is no longer relevant. 
 
+...
 
 ### 🤝 Connect with Me:
 <a href="https://www.linkedin.com/in/davidmalicote/"><img align="left" src="https://github.com/dlockmal/dlockmal/blob/main/images/linkedin.png" alt="David Malicote | LinkedIn" width="21px"/></a>
 
+...
+
+### 🤖 Languages and Tools
+
+### I'm currently working on
 
 <!--
 **dlockmal/dlockmal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
