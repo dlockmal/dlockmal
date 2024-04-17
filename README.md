@@ -15,6 +15,7 @@ I have removed several forked repos containing altered code that is no longer re
 
 ### 🤖 Languages and Tools
 
+---
 
 ### I'm currently working on
 
