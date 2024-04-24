@@ -19,8 +19,8 @@ I have removed several forked repos containing altered code that is no longer re
 ---
 
 ### 🤖 Languages and Tools
-[![GitHub](icons/github.png)](https://github.com/hussainweb)
-[![GitLab](icons/gitlab.png)](https://gitlab.com/hussainweb)
+[![GitHub](images/github.png)](https://github.com/dlockmal)
+[![GitLab](images/gitlab.png)](https://gitlab.com/dlockmal)
 
 ---
 
