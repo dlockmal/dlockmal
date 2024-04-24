@@ -13,25 +13,30 @@ I have removed several forked repos containing altered code that is no longer re
 
 ---
 
-### 🤝 Connect with Me:
+## 🤝 Connect with Me:
 <a href="https://www.linkedin.com/in/davidmalicote/"><img align="left" src="https://github.com/dlockmal/dlockmal/blob/main/images/linkedin.png" alt="David Malicote | LinkedIn" width="21px"/></a><br>
 
 ---
 
-### 🤖 Languages and Tools
+## 🤖 Languages and Tools
 [![GitHub](images/github.png)](https://github.com/dlockmal)
 [![GitLab](images/gitlab.png)](https://gitlab.com/dlockmal)
+[![Golang](images/golang.png)](https://github.com/dlockmal)
+[![Javascript](images/javascript.png)](https://gitlab.com/dlockmal)
+[![mysql](images/mysql.png)](https://github.com/dlockmal)
+[![python](images/python.png)](https://github.com/dlockmal)
+[![terraform](images/terraform.png)](https://github.com/dlockmal)
 
 ---
+## 🔭 I’m currently working on ...
 
-### I'm currently working on
 
 <!--
 **dlockmal/dlockmal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
