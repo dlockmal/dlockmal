@@ -1,13 +1,13 @@
-# 👨🏼‍💻 David Lock Malicote 
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=David%20Malicote%20👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
 
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 Head of Trust and Security 
-- 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Open Web Security Auditor (OSWA) at Offensive Security
-
+## 📓 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 **`Digital Chaos (Hacker/Dev/Creator/Leader)`**
+- 🖥 Head of Trust and Security at Stavvy
+- 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Offensive Web Security Auditor (OSWA) at Offensive Security
 
-I'm a leader of information security teams building my versions of the digital future one step at a time. All projects here are built from the ground
+
+I'm a leader of information security teams building my version of the digital future one step at a time. All projects here are built from the ground
 up, from planning and designing all the way to solving real-life problems. I have several custom scripts and hacks that unfortunately I can't share publicly. 
 I have removed several forked repos containing altered code that is no longer relevant. 
 
