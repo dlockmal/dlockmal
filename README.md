@@ -4,7 +4,7 @@
 ## 📓 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 **`Digital Chaos (Hacker/Dev/Creator/Leader)`**
 - 🖥 Head of Trust and Security at Stavvy
-- 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Offensive Web Security Auditor (OSWA) at Offensive Security
+- 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Offensive Web Attacker (OSWA) at Offensive Security
 
 
 I'm a leader of information security teams building my version of the digital future one step at a time. All projects here are built from the ground
